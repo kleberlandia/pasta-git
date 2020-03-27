@@ -1,5 +1,5 @@
 #includ <stdio.h>
-//Teste de edição de código
+//Teste de edição de código fonte
 int main (){
     return 0;
     
