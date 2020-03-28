@@ -1,6 +1,6 @@
 #includ <stdio.h>
 //Teste de edicao de codigo fonte
-//Retomada de edicao de codigo
+//Retomada de edicao de codigo - Kleber
 int main (){
     return 0;
     
