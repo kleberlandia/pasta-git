@@ -1,0 +1,25 @@
+public classe Estatico{
+        public String nome;
+        public static String tipo;
+
+        public static void main (String args []){
+            Estatico est = new Estativo();
+            est.nome = "Joao";
+            est.tipo = "Humano";
+
+            Estatico est2 = new Estatico();
+            est2.nome = "Maria";
+            est2.nome = "Marciano";
+
+        }
+}
+
+
+//
+
+public Conta{
+        public Double saldo;
+
+}
+
+class Poupanca extends agencia;
