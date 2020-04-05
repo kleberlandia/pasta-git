@@ -1,0 +1,174 @@
+[33mcommit d620bf6201989bf49c1d71facbab34602380af19[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sun Apr 5 19:08:41 2020 +0100
+
+    Adição de arquivoo .project
+
+[33mcommit 58bcc27cd796ad77779b035b283cdb1816b43259[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Wed Apr 1 18:22:08 2020 -0300
+
+    Retirada do comentário
+
+[33mcommit d515f2ff1f186a9d99456d023cb0b74d124d72fb[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Wed Apr 1 17:51:23 2020 -0300
+
+    Pagina html
+
+[33mcommit 75265e5a7c9c5690220db8f6427b5ab3c9abea6c[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Wed Apr 1 17:05:34 2020 -0300
+
+    retirada de uma linha do codigo.
+
+[33mcommit 3ea8b58cc586696f0a2e222238518f457673cbbe[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Wed Apr 1 17:00:51 2020 -0300
+
+    git add .
+
+[33mcommit 3522b22c3c03d7aca8f6f34d8cf1a44fbc729920[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 20:10:03 2020 -0300
+
+    Atualização do README
+
+[33mcommit 4ba927b1d8f670323b8b1cd9dbec7376d7986466[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 20:05:12 2020 -0300
+
+    Atualização do README, retirado erro
+
+[33mcommit fc05704b26b3ed213fda35f695ffb4db332a066a[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 19:54:53 2020 -0300
+
+    Adicionado uma imagem
+
+[33mcommit b0b48696c006e2d8f7788f6e346457340fe27f18[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 19:50:43 2020 -0300
+
+    Adicionado: Autor
+
+[33mcommit 9b75f09020e42f6c4adb5d68d469b836cc8b6122[m
+Merge: 36611b0 0512c91
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 19:46:27 2020 -0300
+
+    Atualização do README
+
+[33mcommit 36611b06c75b2435ba5b4167d2708fcf26188786[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 19:27:21 2020 -0300
+
+    Atualizacao local
+
+[33mcommit 0512c9148da935f7eddf7c95759c5d2e8a4a79a9[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 19:23:17 2020 -0300
+
+    Update teste.txt
+    
+    Adicionado o sobrenome Martins
+
+[33mcommit c928f35dab9200c2e4eebbfdb4bb475bead48e62[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 18:56:47 2020 -0300
+
+    Update README.md
+    
+    Ajustado o título, foi acrescentado a palavra GitHub.
+
+[33mcommit 950f7ee6401336462086592b7f1a997440cd05f2[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 03:02:06 2020 -0300
+
+    Atualizacao
+
+[33mcommit 802e5920deae7d1e9819da0c057a1e841d02f076[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 01:58:54 2020 -0300
+
+    Update README.md
+    
+    A imagem foi removida.
+
+[33mcommit 98647aebdb06b105b339a75c102f4c87a465dfcb[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 01:57:28 2020 -0300
+
+    Update README.md
+
+[33mcommit 1c4c49503be540e0b53569e5296fb8eafd0732ec[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 01:47:09 2020 -0300
+
+    Update README.md
+
+[33mcommit a93c924feaefd5b4676c9fed99ba1c2da2338bed[m
+Author: Kléber Martins <32419996+kleberlandia@users.noreply.github.com>
+Date:   Sat Mar 28 01:46:21 2020 -0300
+
+    Update README.md
+
+[33mcommit 4b06af89952ed893553b5d952d5b853f2cb547e7[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 01:44:09 2020 -0300
+
+    Correcao de codigo do README
+
+[33mcommit 02e137ef860f8cb5df79c8b3feb064c5ffadb60c[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 01:07:10 2020 -0300
+
+    Adicionando o arquivo README e a imagem de Formatura
+
+[33mcommit d9c3ad64a64c31d461e14902e8f8c8963cecd0eb[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Sat Mar 28 00:38:25 2020 -0300
+
+    Edicao do codigo fonte, nos comentarios
+
+[33mcommit 83cf4cedc18703ee49f751f23baed6d82e2ef861[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 23:46:31 2020 -0300
+
+    Adicionado a pasta o Livro ProGit
+
+[33mcommit afe33049695617730926fe7a0374f68e43834a0e[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 18:30:10 2020 -0300
+
+    Editado o comentario, retirado os acentos
+
+[33mcommit 18d459f2a68a6356f9193be08d20c8801ebc675a[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 18:11:38 2020 -0300
+
+    Adicionado a  palavra fonte, no comentário
+
+[33mcommit b6378948fcd2b9e2fdd708c1da5e1b9e22a6c7fe[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 17:52:04 2020 -0300
+
+    Inserido comentário do cógio fonte
+
+[33mcommit 9b60ead92f1ca09e13693339aec0b77c608f0239[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 17:30:15 2020 -0300
+
+    Cópia do Calendário Acadêmico da UFPA - 2020
+
+[33mcommit f79d4629982ac3ce51789dc4bc4eac28c54bbe16[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 16:59:33 2020 -0300
+
+    Adicionado código fonte em linguagem C
+
+[33mcommit df9d48f1e764e718dcc013a8cd71aaecf5f2bdf0[m
+Author: Kleber Martins <kleberlandia@gmail.com>
+Date:   Fri Mar 27 16:52:54 2020 -0300
+
+    Primeiro commit!
